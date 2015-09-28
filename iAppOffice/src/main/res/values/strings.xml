@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iappofficejar</string>
+    <string name="pensettingtitle">设置宽度与颜色</string>
+    <string name="labwidth">笔宽</string>
+    <string name="showall">显示所有签批信息</string>
+    <string name="prepage">上一页</string>
+    <string name="nextpage">下一页</string>
+    <string name="close_text">关闭</string>
+    <string name="save_text">保存</string>
+    <string name="zoom_text">缩放</string>
+    <string name="sign_text">签批</string>
+    <string name="undo_text">撤销</string>
+    <string name="redo_text">还原</string>
+    <string name="delete_text">删除</string>
+    <string name="resign_text">重签</string>
+    <string name="pensetting_text">设置</string>
+    <string name="download_waiting">正在下载，请稍后...</string>
+    <string name="upload_waiting">正在上传，请稍后...</string>
+    <string name="waiting_title">提示</string>
+    <string name="waiting">  正在加载，请稍后...  </string>
+</resources>

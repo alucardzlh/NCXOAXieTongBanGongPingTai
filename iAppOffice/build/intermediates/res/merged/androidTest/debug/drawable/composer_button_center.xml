@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:src="@drawable/title" /><!-- From: file:/F:/Studio_ZLH/NCXOAXieTongBanGongPingTai/iAppOffice/src/main/res/drawable/composer_button_center.xml --><!-- From: file:/F:/Studio_ZLH/NCXOAXieTongBanGongPingTai/iAppOffice/build/intermediates/bundles/debug/res/drawable/composer_button_center.xml -->

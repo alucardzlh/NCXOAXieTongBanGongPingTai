@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.OA.Activity"
+        minSdkVersion 8
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    provided fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':iAppOffice')
+    compile project(':library')
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile files('libs/androidannotations-api-2.7.1.jar')
+    compile files('libs/ksoap2-android-assembly-3.0.0.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    /*compile files('libs/poi-3.8-beta4-20110826.jar')
+    compile files('libs/poi-scratchpad-3.8-beta4-20110826.jar')*/
+    compile files('libs/umeng-update-v2.5.0.jar')
+}

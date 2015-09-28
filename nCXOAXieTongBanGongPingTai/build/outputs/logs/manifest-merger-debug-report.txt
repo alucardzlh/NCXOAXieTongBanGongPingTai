@@ -1,0 +1,587 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:2:1-294:12
+	package
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:6:5-32
+	xmlns:tools
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:8:5-11:64
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [NCXOAXieTongBanGongPingTai:library:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\library\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:20.0.0] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:appcompat-v7:20.0.0] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+	tools:overrideLibrary
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:11:9-61
+	android:targetSdkVersion
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+		INJECTED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:16:5-76
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:17:5-76
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:19:5-84
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:21:5-78
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:22:5-68
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.INTERNET
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:23:5-67
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:24:5-81
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:26:5-75
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:28:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:30:22-63
+application
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:32:5-292:19
+MERGED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:31:5-87:19
+MERGED from [com.android.support:support-v4:20.0.0] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:appcompat-v7:20.0.0] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+	android:process
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:36:9-52
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:36:9-41
+	android:allowBackup
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:35:9-45
+	android:largeHeap
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:35:9-33
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:37:9-51
+		REJECTED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:37:9-45
+	tools:replace
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:38:9-38
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:33:9-51
+activity#com.OA.Activity.LoadingActivity_
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:39:9-49:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:41:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:40:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:47:27-74
+activity#com.OA.Activity.LoginActivity_
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:53:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:51:13-58
+activity#com.OA.Activity.MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:57:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:58:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:56:13-41
+activity#com.OA.Activity.HyxxMainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:63:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:61:13-60
+activity#com.OA.Activity.XzfwMainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:65:9-69:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:67:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:68:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:66:13-60
+activity#com.OA.Activity.XzswMainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:70:9-74:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:72:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:73:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:71:13-60
+activity#com.OA.Activity.Xzsw_xzswyy_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:75:9-78:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:76:13-68
+activity#com.OA.Activity.Xzsw_xzswcl_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:80:13-68
+activity#com.OA.Activity.Xzsw_xzswdy_mainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:83:9-86:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:85:13-45
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:84:13-68
+activity#com.OA.Activity.Xzsw_xzswdj_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:87:9-90:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:89:13-45
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:88:13-68
+activity#com.OA.Activity.TzggMainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:91:9-95:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:93:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:94:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:92:13-60
+activity#com.OA.Activity.Tzgg_qc_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:96:9-100:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:98:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:99:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:97:13-64
+activity#com.OA.Activity.Tzgg_sh_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:101:9-105:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:103:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:104:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:102:13-64
+activity#com.OA.Activity.Tzgg_ll_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:110:9-114:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:112:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:113:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:111:13-64
+activity#com.OA.Activity.Hyxx_hyssh_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:115:9-119:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:117:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:118:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:116:13-67
+activity#com.OA.Activity.Detail_Xzswcl_chakantabs_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:120:9-124:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:122:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:123:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:121:13-81
+activity#com.OA.Activity.Hyxx_hyssq_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:125:9-129:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:127:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:128:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:126:13-67
+activity#com.OA.Activity.Hyxx_Wdhysq_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:130:9-134:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:132:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:133:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:131:13-68
+activity#com.OA.Activity.Hyxx_Wdhytz_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:135:9-139:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:137:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:138:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:136:13-68
+activity#com.OA.Activity.Xzsw_Wdxzsw_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:140:9-144:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:142:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:143:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:141:13-68
+activity#com.OA.Activity.Xzfw_Wdxzfw_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:145:9-149:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:147:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:148:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:146:13-68
+activity#com.OA.Activity.Tzgg_detail_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:150:9-154:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:152:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:153:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:151:13-68
+activity#com.OA.Activity.Hyxx_detail_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:155:9-159:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:157:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:158:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:156:13-68
+activity#com.OA.Activity.Xzfw_xzfwzg_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:160:9-164:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:162:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:163:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:161:13-68
+activity#com.OA.Activity.Xzfw_xzfwyy_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:165:9-169:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:167:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:168:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:166:13-68
+activity#com.OA.Activity.Xzfw_xzfwdy_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:170:9-174:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:172:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:173:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:171:13-68
+activity#com.OA.Activity.Xzfw_xzfwsh_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:175:9-179:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:177:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:178:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:176:13-68
+activity#com.OA.Activity.Detail_xzfwsh_chakantabs_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:180:9-184:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:182:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:183:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:181:13-81
+activity#com.OA.Activity.Detail_Bdxx_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:185:9-189:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:187:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:188:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:186:13-68
+activity#com.OA.Activity.Xzsw_Detail_BDxx_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:190:9-194:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:192:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:193:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:191:13-73
+activity#com.OA.Activity.PeopleCheck_Activity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:200:9-204:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:202:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:203:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:201:13-64
+activity#com.OA.Activity.UpLoadFile_Activity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:205:9-209:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:207:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:208:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:206:13-63
+activity#com.OA.Activity.UploadFile_CheckFile_MainActivity_
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:210:9-214:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:212:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:213:13-53
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:211:13-78
+activity#com.OA.Activity.Detail_Wdxzfw_chakantabs_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:220:9-224:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:222:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:223:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:221:13-81
+activity#com.OA.Activity.Detail_Wdxzsw_chakantabs_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:225:9-229:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:227:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:228:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:226:13-81
+activity#com.OA.Activity.Detail_Xzswyy_chakan_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:230:9-234:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:232:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:233:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:231:13-77
+activity#com.OA.Activity.Detail_Xzfwyy_chakantabs_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:235:9-239:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:237:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:238:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:236:13-81
+activity#com.OA.Activity.QuxiaoDialog_Toast_MainAcitvity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:240:9-244:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:242:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:243:13-56
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:241:13-75
+activity#com.OA.Activity.TjryDialog_Toast_MainAcitvity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:245:9-249:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:247:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:248:13-56
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:246:13-73
+activity#com.OA.Activity.ShowPictureImageViewActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:250:9-254:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:252:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:253:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:251:13-72
+activity#com.OA.Activity.ShowPitureWebviewActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:255:9-259:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:257:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:258:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:256:13-69
+activity#com.OA.Activity.Detail_Wdhytz_xiangxi_MainActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:260:9-264:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:262:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:263:13-55
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:261:13-78
+activity#com.OA.Activity.FirstNextStepActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:265:9-269:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:267:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:268:13-56
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:266:13-65
+activity#com.OA.Activity.SecondNextStepActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:270:9-274:20
+	android:label
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:272:13-45
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:273:13-56
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:271:13-66
+service#com.umeng.update.net.DownloadingService
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:276:9-279:19
+	android:process
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:278:13-50
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:277:13-67
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:281:9-284:20
+	android:theme
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:283:13-72
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:282:13-65
+meta-data#UMENG_APPKEY
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:286:9-288:56
+	android:value
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:288:13-53
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:287:13-40
+meta-data#UMENG_CHANNEL
+ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:289:9-291:42
+	android:value
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:291:13-39
+	android:name
+		ADDED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:290:13-41
+supports-screens
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:11:5-16:39
+	android:largeScreens
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:16:9-36
+	android:normalScreens
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:15:9-34
+	android:anyDensity
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:27:5-72
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:27:22-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:29:22-71
+service#com.kinggrid.toolbar.ToolBar
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:53:9-60:19
+	android:enabled
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:54:13-56
+intent-filter#com.kinggrid.toolbar.view
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:57:13-59:29
+action#com.kinggrid.toolbar.view
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:58:17-68
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:58:25-65
+service#cn.wps.moffice.demo.agent.AgentMessageService
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:61:9-66:19
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:61:18-78
+intent-filter#cn.wps.moffice.agent.OfficeServiceAgent
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:62:13-65:29
+action#cn.wps.moffice.agent.OfficeServiceAgent
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:63:17-64:26
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:63:25-79
+service#cn.wps.moffice.demo.client.MOfficeClientService
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:67:9-71:19
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:67:18-80
+intent-filter#cn.wps.moffice.client.OfficeServiceClient
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:68:13-70:29
+action#cn.wps.moffice.client.OfficeServiceClient
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:69:17-84
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:69:25-81
+activity#com.kinggrid.fileselect.MyFileManager
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:73:9-75:59
+	android:theme
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:74:13-65
+activity#com.kinggrid.iappoffice.PlugActivity
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:76:9-78:63
+	android:theme
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:78:13-60
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:77:13-64
+activity#com.kinggrid.common.DialogActivity
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:79:9-82:20
+	android:theme
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:81:13-47
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:80:13-62
+activity#com.kinggrid.common.BlankActivity
+ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:83:9-86:20
+	android:theme
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:85:13-47
+	android:name
+		ADDED from [NCXOAXieTongBanGongPingTai:iAppOffice:unspecified] F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\build\intermediates\exploded-aar\NCXOAXieTongBanGongPingTai\iAppOffice\unspecified\AndroidManifest.xml:84:13-61
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\Studio_ZLH\NCXOAXieTongBanGongPingTai\nCXOAXieTongBanGongPingTai\src\main\AndroidManifest.xml:2:1-294:12 reason: com.kinggrid.iappoffice.demo requested WRITE_EXTERNAL_STORAGE

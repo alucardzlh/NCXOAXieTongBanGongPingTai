@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iAppOffice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iAppOffice/libs/iAppOffice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.OA.Activity"
+    android:versionCode="3"
+    android:versionName="1.0.2">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21"
+        tools:overrideLibrary="android.support.v7.appcompat" />
+
+
+    <!-- 添加相关的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 打电话 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 震动 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name="com.OA.Activity.ActivityApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light"
+        tools:replace="android:theme">
+        <activity
+            android:name="com.OA.Activity.LoadingActivity_"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light"
+             >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.OA.Activity.LoginActivity_"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.HyxxMainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.XzfwMainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.XzswMainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzsw_xzswyy_MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzsw_xzswcl_MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzsw_xzswdy_mainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzsw_xzswdj_MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.TzggMainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Tzgg_qc_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Tzgg_sh_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <!--<activity
+            android:name="com.OA.Activity.Tzgg_xiugai_MainActivity"
+            android:label="@string/app_name" >
+        </activity>-->
+        <activity
+            android:name="com.OA.Activity.Tzgg_ll_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Hyxx_hyssh_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_Xzswcl_chakantabs_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Hyxx_hyssq_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Hyxx_Wdhysq_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Hyxx_Wdhytz_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzsw_Wdxzsw_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzfw_Wdxzfw_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Tzgg_detail_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Hyxx_detail_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzfw_xzfwzg_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzfw_xzfwyy_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzfw_xzfwdy_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzfw_xzfwsh_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_xzfwsh_chakantabs_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_Bdxx_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Xzsw_Detail_BDxx_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+       <!-- <activity
+            android:name="com.OA.Activity.Detail_Wdxzsw_chakan_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>-->
+        <activity
+            android:name="com.OA.Activity.PeopleCheck_Activity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.UpLoadFile_Activity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.UploadFile_CheckFile_MainActivity_"
+            android:label="@string/app_name"
+            android:theme="@style/DialogStyleBottom" >
+        </activity>
+       <!-- <activity
+            android:name="com.OA.Activity.Detail_Wdxzfw_chakan_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>-->
+        <activity
+            android:name="com.OA.Activity.Detail_Wdxzfw_chakantabs_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_Wdxzsw_chakantabs_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_Xzswyy_chakan_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_Xzfwyy_chakantabs_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.QuxiaoDialog_Toast_MainAcitvity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.TjryDialog_Toast_MainAcitvity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.ShowPictureImageViewActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.ShowPitureWebviewActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.Detail_Wdhytz_xiangxi_MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.FirstNextStepActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.OA.Activity.SecondNextStepActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" >
+        </service>
+
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="54d1cb3cfd98c52254000b69" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Channel ID" />
+    </application>
+
+</manifest>

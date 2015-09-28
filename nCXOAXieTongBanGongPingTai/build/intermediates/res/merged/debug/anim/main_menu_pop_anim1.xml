@@ -1,0 +1,11 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">  
+  
+    <translate  
+  
+       android:fromYDelta="100%p"  
+  
+       android:toYDelta="0%p"  
+  
+       android:duration="300"/>  
+  
+</set> <!-- From: file:/F:/Studio_ZLH/NCXOAXieTongBanGongPingTai/nCXOAXieTongBanGongPingTai/src/main/res/anim/main_menu_pop_anim1.xml -->

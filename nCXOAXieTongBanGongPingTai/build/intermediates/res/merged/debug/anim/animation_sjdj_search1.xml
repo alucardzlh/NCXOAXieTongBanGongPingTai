@@ -1,0 +1,9 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">  
+  
+<alpha
+android:fromAlpha="1.0"
+android:toAlpha="0.0"
+android:duration="500"
+/>
+  
+</set> <!-- From: file:/F:/Studio_ZLH/NCXOAXieTongBanGongPingTai/nCXOAXieTongBanGongPingTai/src/main/res/anim/animation_sjdj_search1.xml -->

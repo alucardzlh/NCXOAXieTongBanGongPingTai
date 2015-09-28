@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    tools:context=".Handwrite" >
+
+    <RelativeLayout
+        android:id="@+id/layout_btns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/kinggrid_bg_menu_sub"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:paddingBottom="10.0dip"
+        android:paddingTop="10.0dip">
+
+        <Button
+            android:id="@+id/btn_pen"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="2.0dip"
+            android:background="@drawable/o_bg_pen" />
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentRight="true"            
+            android:layout_marginRight="2.0dip"
+            android:background="@drawable/o_bg_close" />
+
+        <Button
+            android:id="@+id/btn_clear"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_toLeftOf="@id/btn_close"
+            android:background="@drawable/o_bg_clear" />
+
+        <Button
+            android:id="@+id/btn_save"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_toLeftOf="@id/btn_clear"
+            android:background="@drawable/o_bg_save" />
+
+        <!-- 重做 -->
+
+        <Button
+            android:id="@+id/btn_redo"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_toLeftOf="@id/btn_save"
+            android:background="@drawable/o_bg_redo" />
+
+        <!-- 撤销 -->
+
+        <Button
+            android:id="@+id/btn_undo"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_toLeftOf="@id/btn_redo"
+            android:background="@drawable/o_bg_undo" />
+    </RelativeLayout>
+<!-- 
+    <RelativeLayout
+        android:layout_width="492dp"
+        android:layout_height="320dp">
+
+        <com.ebensz.pennable.widget.PennableLayout
+            android:id="@+id/ink"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </RelativeLayout> -->
+    
+    <com.kinggrid.kinggridsign.KingGridViewS
+        android:id="@+id/writing_canvas"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:background="@android:color/transparent"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+</LinearLayout><!-- From: file:/F:/Studio_ZLH/NCXOAXieTongBanGongPingTai/iAppOffice/src/main/res/layout/handwrite_s.xml --><!-- From: file:/F:/Studio_ZLH/NCXOAXieTongBanGongPingTai/nCXOAXieTongBanGongPingTai/build/intermediates/exploded-aar/NCXOAXieTongBanGongPingTai/iAppOffice/unspecified/res/layout/handwrite_s.xml -->
